@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven Benalc\u00E1zar\\Desktop\\Uce Aron\\8vo semestre\\Progra dsitribuida\\PythonAppcelcius\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6978C09-7F11-4853-B2E1-E79C55D778D1}|PythonAppcelcius\\PythonAppcelcius.pyproj|C:\\Users\\Steven Benalc\u00E1zar\\Desktop\\Uce Aron\\8vo semestre\\Progra dsitribuida\\PythonAppcelcius\\PythonAppcelcius\\PythonAppcelcius.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6978C09-7F11-4853-B2E1-E79C55D778D1}|PythonAppcelcius\\PythonAppcelcius.pyproj|solutionrelative:PythonAppcelcius\\PythonAppcelcius.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonAppcelcius.py",
+              "DocumentMoniker": "C:\\Users\\Steven Benalc\u00E1zar\\Desktop\\Uce Aron\\8vo semestre\\Progra dsitribuida\\PythonAppcelcius\\PythonAppcelcius\\PythonAppcelcius.py",
+              "RelativeDocumentMoniker": "PythonAppcelcius\\PythonAppcelcius.py",
+              "ToolTip": "C:\\Users\\Steven Benalc\u00E1zar\\Desktop\\Uce Aron\\8vo semestre\\Progra dsitribuida\\PythonAppcelcius\\PythonAppcelcius\\PythonAppcelcius.py",
+              "RelativeToolTip": "PythonAppcelcius\\PythonAppcelcius.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-05T16:22:07.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
